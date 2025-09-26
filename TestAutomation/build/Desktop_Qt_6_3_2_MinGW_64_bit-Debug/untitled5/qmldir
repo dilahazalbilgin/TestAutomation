@@ -1,5 +1,0 @@
-module untitled5
-typeinfo appuntitled5.qmltypes
-prefer :/untitled5/
-Main 1.0 Main.qml
-
